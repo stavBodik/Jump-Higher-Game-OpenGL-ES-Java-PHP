@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_id">451368375070417</string>
+    <string name="app_name">Jump Higher</string>
+    <string name="opengles2notsupported">System not supports OpenGL ES 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="level">Level:</string>
+    <string name="nextHeight">Height next Level : </string>
+    <string name="rank">Rank:</string>
+    <string name="radius">Radius:</string>
+    <string name="back">&#xf0a8;</string>
+    <string name="help">&#xf059;</string>
+    <string name="loginarrow">&#xf061;</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="time">Time:</string>
+    <string name="newrank">Your new rank is : </string>
+    <string name="bethebest">B E&#160;&#160;&#160;T H E&#160;&#160;&#160;B E S T</string>
+    <string name="start">S&#160;&#160;T&#160;&#160;A&#160;&#160;R&#160;&#160;T</string>
+    <string name="howtoplay">How To Play</string>
+    <string name="play">Play</string>
+    <string name="profile">Profile</string>
+    <string name="TOP50">TOP 50</string>
+    <string name="username">User Name : </string>
+    <string name="password">Password : </string>
+    <string name="email">Email ( account restore ) : </string>
+    <string name="country">Country : </string>
+    <string name="register">R E G I S T E R</string>
+    <string name="filloutall">Please fill out all fields</string>
+    <string name="wrongemail">Wrong email address</string>
+    <string name="useremailexist">User name or Email alredy exist</string>
+    <string name="registerSecc">Register Seccesful</string>
+    <string name="loginSecc">Login Seccesful</string>
+    <string name="internetproblem">Connection error </string>
+    <string name="alphanomeric">User Name cannot include none english alphanumeric character</string>
+    <string name="errorusernamelength">Error : User Name/Password maximum character allowed is 12</string>
+    <string name="wronglogin">Wrong login information</string>
+    <string name="spaceerror">Error : Password or Email includes space character</string>
+    <string name="login">L O G I N</string>
+    <string name="restoreBT">R E S T O R E</string>
+    <string name="restoreaccount">Restore account information</string>
+    <string name="noaccuntyet">Dont have account?      Register here</string>
+    <string name="errorface">facebook connection error try again</string>
+    <string name="title_activity_restore">RestoreActivity</string>
+    <string name="accountInformationrestore">Please enter your Email :</string>
+    <string name="emailNotExist">Email not found</string>
+    <string name="save">Save</string>
+    <string name="emailexist">Email alredy exist</string>
+    <string name="updateSucced">Update information succeed</string>
+    <string name="newrecord">You have got new record :</string>
+    <string name="cannotupdaterecord">"Cannot update new record on server\nPlease fix your internet connection then press here to try again"</string>
+    <string name="nonewrecord">" Unfortunately\nYou did not got better record, \nCurrent record:\nLevel: "</string>
+    <string name="timen">"\nTime : "</string>
+    <string name="nice">"Nice "</string>
+    <string name="of">" of "</string>
+    <string name="finish">"FINISH"</string>
+    <string name="emailtitel">"Jump Higher - Restore Account Information"</string>
+    <string name="emailcontect1">"Hello ,"</string>
+    <string name="emailcontent2">"Thanks you for playing Jump Higher"</string>
+    <string name="emailcontent3">"Here is your account login information :"</string>
+    <string name="emailcontent4">"Username : "</string>
+    <string name="emailcontent5">"Password : "</string>
+    <string name="bestrecord">"My Record:"</string>
+    <string name="restoreSucceed">Restore information sent</string>
+    <string name="title_activity_top50">TOP50</string>
+    <string name="title_activity_top">TOPActivity</string>
+    <string name="toprank">TOP RANK</string>
+    <string name="myrank">MY RANK</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tutoriallevelup"><![CDATA[
+        						   Your goal is to get the best <b><font color=#07337b>rank</b> in top table !<br>
+        						   To do so you have to cause the <b><font color=#920083>sphere</b> jump higher,<br>
+        						   When the sphere jump high enough your increasing your <b><font color=#940613>level.</b><br>
+        						   Each level represents as the height between both <b><font color=#928d00>surfaces</b>,<br>
+        						   And of course this must be done with a best <b><font color=#1b6502>time record</b> !<br>
+        						   Controlling the sphere and the surface is done by device sensors<br>
+        						   Described in the next pages.
+        						   ]]> 
+   	</string>
+   	 <string name="tutorialjump"><![CDATA[
+        						   In order to cause the sphere to jump between surfaces<br>
+        						   You must accelerate the device upward
+        						   same as playing paddle ball.<br>
+        						   Each time the sphere jumps,<br>
+        						   Will cause the energy bar to fill up and
+        						   when it comes to 100% the sphere will jump
+        						   5 times higher then in normal jump .
+        						   ]]> 
+   	</string>
+   	
+   	 <string name="tutorialrotate"><![CDATA[
+        						   The surface, where the sphere is placed on 
+        						   can be controlled by the device orientation.<br>
+        						   Whenever you rotate the device ,<br> 
+        						   The surface will also rotate.<br>
+        						   Be careful , rotating the surface may cause
+        						   the sphere fall down from the surface.
+        						   ]]> 
+   	</string>
+ 
+
+</resources>
